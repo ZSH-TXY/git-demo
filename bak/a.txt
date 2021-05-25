@@ -1,0 +1,3 @@
+this is a test function. hahaha
+hello git
+hello shihao
